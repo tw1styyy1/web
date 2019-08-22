@@ -16,3 +16,5 @@ let arr = [20,30,1,'Человек',2,3];
 let numbers = arr[0] + arr[1] + arr[2] + arr[4] + arr[5];
 numbers = Math.sqrt(numbers);
 console.log(numbers);
+
+
