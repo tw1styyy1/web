@@ -59,10 +59,11 @@ function Budhet() {
    console.log(mainList.budget / 30);
 }
 
+/*
 shopName();
 Employers();
 clock();
 Money();
 chooseGoods();
 Budhet();
-console.log(mainList);
+console.log(mainList);*/
