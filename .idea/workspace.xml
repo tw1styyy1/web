@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f5efc7b0-ff09-408f-aa32-70df1746a0ee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +31,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -66,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566414653650</updated>
       <workItem from="1566414658301" duration="1130000" />
-      <workItem from="1566415791893" duration="9313000" />
+      <workItem from="1566415791893" duration="12289000" />
     </task>
     <servers />
   </component>
